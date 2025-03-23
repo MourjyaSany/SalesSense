@@ -1,1 +1,1 @@
-FlaskStreamlitrequestsscikit-learnpickle-mixingunicorn
+FlaskStreamlitrequestsscikit-learnpickle-mixingunicornflask-cors
